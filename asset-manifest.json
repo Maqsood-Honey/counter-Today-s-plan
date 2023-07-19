@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/counter-Today-s-plan/static/css/main.4f8a76cf.css",
-    "main.js": "/counter-Today-s-plan/static/js/main.7f3bc869.js",
-    "index.html": "/counter-Today-s-plan/index.html",
-    "main.4f8a76cf.css.map": "/counter-Today-s-plan/static/css/main.4f8a76cf.css.map",
-    "main.7f3bc869.js.map": "/counter-Today-s-plan/static/js/main.7f3bc869.js.map"
+    "main.css": "/counter-Today-s-plang/static/css/main.4f8a76cf.css",
+    "main.js": "/counter-Today-s-plang/static/js/main.7f3bc869.js",
+    "index.html": "/counter-Today-s-plang/index.html",
+    "main.4f8a76cf.css.map": "/counter-Today-s-plang/static/css/main.4f8a76cf.css.map",
+    "main.7f3bc869.js.map": "/counter-Today-s-plang/static/js/main.7f3bc869.js.map"
   },
   "entrypoints": [
     "static/css/main.4f8a76cf.css",
